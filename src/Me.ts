@@ -1,10 +1,10 @@
 import { contact, IUser } from './github'
 
 export default class ME implements IUser {
-    public static firstName = 'Alen'
-    public static lastName = 'Yohannan'
-    public static username = 'AlenSaito1'
-    public static aliases = ['Ban Takahiro']
+    public static firstName = 'Kaizer'
+    public static lastName = 'Kun'
+    public static username = 'Kaizerkun01'
+    public static aliases = ['well']
     public static skills = ['TypeScript', 'JavaScript', 'NodeJS', 'C', 'EJS', 'Express', 'NoSQL']
     public static info = {
         age: 17,
@@ -15,33 +15,19 @@ export default class ME implements IUser {
         reach: [
             {
                 name: contact.Discord,
-                username: 'Alen#4688'
+                username: 'Kaizer#4688'
             },
             {
                 name: contact.WhatsApp,
-                url: 'https://wa.me/+919744375687?text=Well...'
+                url: 'https://wa.me/+919832888695?text=Well...'
             }
         ]
     }
     public static projects = [
         {
-            name: 'Wa-Sticker-Fomatter',
-            homepage: 'https://www.npmjs.com/package/wa-sticker-formatter',
-            repo: 'https://github.com/AlenSaito1/wa-sticker-formatter',
-            language: 'TypeScript',
-            ongoing: true
-        },
-        {
-            name: 'mywaifulist-scraper',
-            homepage: 'https://www.npmjs.com/package/mywaifulist-scraper',
-            repo: 'https://github.com/AlenSaito1/mywaifulist-scraper',
-            language: 'TypeScript',
-            onging: true
-        },
-        {
-            name: 'WhatsApp-Botto-Xre',
-            homepage: 'https://github.com/SomnathDas/Whatsapp-Botto-Xre#readme',
-            repo: 'https://github.com/SomnathDas/Whatsapp-Botto-Xre',
+            name: 'Quantum-private',
+            homepage: 'https://github.com/Kaizerkun01/Quantum-private#readme',
+            repo: 'https://github.com/Kaizerkun01/Quantum-private',
             language: 'TypeScript',
             onging: true
         }
